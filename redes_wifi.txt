@@ -1,0 +1,85 @@
+Nome da rede: Vodafone Casa 5G
+Sinal de qualidade: -33
+Frequência: 5180.0 GHz
+Endereço MAC: 20:65:8e:b4:37:14:
+
+Nome da rede: Vodafone Casa 2.4G
+Sinal de qualidade: -35
+Frequência: 2427.0 GHz
+Endereço MAC: 20:65:8e:b4:37:10:
+
+Nome da rede: Vodafone-DB29FB
+Sinal de qualidade: -85
+Frequência: 2427.0 GHz
+Endereço MAC: 04:88:5f:db:2a:04:
+
+Nome da rede: Vodafone-DB29FB
+Sinal de qualidade: -88
+Frequência: 5180.0 GHz
+Endereço MAC: 04:88:5f:db:2a:08:
+
+Nome da rede: Vodafone Casa 2.4G
+Sinal de qualidade: -35
+Frequência: 2427.0 GHz
+Endereço MAC: 20:65:8e:b4:37:10:
+
+Nome da rede: Vodafone-7B7B67
+Sinal de qualidade: -86
+Frequência: 2462.0 GHz
+Endereço MAC: 84:1e:a3:7b:7b:64:
+
+Nome da rede: MEO-WiFi
+Sinal de qualidade: -55
+Frequência: 2462.0 GHz
+Endereço MAC: cc:19:a8:94:e3:22:
+
+Nome da rede: MEO-WiFi
+Sinal de qualidade: -94
+Frequência: 2412.0 GHz
+Endereço MAC: 58:fc:20:c4:f8:72:
+
+Nome da rede: MEO-WiFi
+Sinal de qualidade: -64
+Frequência: 5500.0 GHz
+Endereço MAC: cc:19:a8:94:e3:26:
+
+Nome da rede: MEO-94E320
+Sinal de qualidade: -56
+Frequência: 2462.0 GHz
+Endereço MAC: cc:19:a8:94:e3:20:
+
+Nome da rede: NOS-F296
+Sinal de qualidade: -56
+Frequência: 2437.0 GHz
+Endereço MAC: 74:9b:e8:89:f2:96:
+
+Nome da rede: HP-Print-0F-LaserJet 1102
+Sinal de qualidade: -80
+Frequência: 2437.0 GHz
+Endereço MAC: 7c:e9:d3:af:80:0f:
+
+Nome da rede: MEO-C4F870
+Sinal de qualidade: -94
+Frequência: 2412.0 GHz
+Endereço MAC: 58:fc:20:c4:f8:70:
+
+Nome da rede: MEO-94E321-5G
+Sinal de qualidade: -64
+Frequência: 5500.0 GHz
+Endereço MAC: cc:19:a8:94:e3:21:
+
+Nome da rede: NOS-F296-5
+Sinal de qualidade: -66
+Frequência: 5320.0 GHz
+Endereço MAC: 74:9b:e8:89:f2:9b:
+
+Nome da rede: Vodafone-7B7B67-5g
+Sinal de qualidade: -90
+Frequência: 5180.0 GHz
+Endereço MAC: 84:1e:a3:7b:7b:65:
+
+Nome da rede: Vodafone Casa 5G
+Sinal de qualidade: -37
+Frequência: 5180.0 GHz
+Endereço MAC: 20:65:8e:b4:37:14:
+
